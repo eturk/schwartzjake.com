@@ -1,8 +1,8 @@
 ---
 title: Home
 permalink: "/"
-layout: home
 position: 0
+layout: home
 reel_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
 ---
 
