@@ -1,0 +1,17 @@
+---
+title: Jake Schwartz
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
