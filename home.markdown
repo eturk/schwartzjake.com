@@ -8,7 +8,7 @@ resume_url: "/uploads/Jake_Schwartz_Resume_FilmProjects_Draft2_2.pdf"
 
 Creative.
 
-Filmmaker.
+Director.
 
 Photographer.
 
