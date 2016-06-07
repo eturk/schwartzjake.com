@@ -95,6 +95,12 @@
 
 			}
 
+		// Modal
+			$('.popup-reel').magnificPopup({
+				disableOn: 700,
+				type: 'iframe'
+			});
+
 	});
 
 })(jQuery);
