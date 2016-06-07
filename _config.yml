@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
 - scope:
-    path: 'home.markdown'
+    path: home.markdown
     type: pages
   values:
     layout: landing
