@@ -1,8 +1,8 @@
 ---
 title: Home
+permalink: "/"
 layout: home
-permalink: /
-reel_url: "http://www.youtube.com/raconteurpro"
+reel_url: http://www.youtube.com/raconteurpro
 ---
 
 Creative.
