@@ -97,7 +97,7 @@
 
 		// Modal
 			$('.popup-reel').magnificPopup({
-				disableOn: 700,
+				disableOn: 1000,
 				type: 'iframe'
 			});
 
