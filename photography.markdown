@@ -2,9 +2,9 @@
 title: Photography
 position: 2
 media:
-- url: http://google.com
+- media_url: http://google.com
   thumbnail_image: "/assets/img/example.jpg"
-- url: 
+- media_url: 
   thumbnail_image: 
 ---
 
