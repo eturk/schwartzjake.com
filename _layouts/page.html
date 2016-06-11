@@ -25,7 +25,7 @@ layout: default
           {% for media in page.media %}
             <div class="4u">
               <span class="image fit">
-                <a class="popup-reel" href="{{ media.media_url }}"><img src="{{ media.thumbnail_image }}"></a>
+                <a class="popup-{{ page.modal_type }}" href="{{ media.media_url }}"><img src="{{ media.thumbnail_image }}"></a>
               </span>
             </div>
           {% endfor %}
