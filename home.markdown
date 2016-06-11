@@ -11,4 +11,4 @@ hide_header: true
 
 [Photographer.](http://schwartzjake.com/photography/)
 
-Graphic Designer.
+[Graphic Designer.](http://schwartzjake.com/graphic-design/)
