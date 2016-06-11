@@ -9,6 +9,18 @@ layout: default
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}
+
+      {% if page.media %}
+        <div class="row uniform 50%">
+          {% for media in page.media %}
+            <div class="4u">
+              <span class="image fit">
+                <a class="popup-reel" href="{{ media.url }}"><img src="{{ media.thumbnail_url }}"></a>
+              </span>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
     </div>
   </section>
 </article>
