@@ -108,6 +108,9 @@
 				}
 			});
 
+		// Shapeshift
+		// $('.masonry').shapeshift();
+
 	});
 
 })(jQuery);

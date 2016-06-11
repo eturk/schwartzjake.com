@@ -21,15 +21,29 @@ layout: default
       {% endif %}
 
       {% if page.media %}
-        <div class="row uniform 50%">
-          {% for media in page.media %}
-            <div class="4u">
-              <span class="image fit">
-                <a class="popup-{{ page.modal_type }}" href="{{ media.media_url }}"><img src="{{ media.thumbnail_image }}"></a>
-              </span>
+        {% if page.title == "Films" %}
+          <div class="row uniform 50%">
+            {% for media in page.media %}
+              <div class="4u">
+                <span class="image fit">
+                  <a class="popup-{{ page.modal_type }}" href="{{ media.media_url }}"><img src="{{ media.thumbnail_image }}"></a>
+                </span>
+              </div>
+            {% endfor %}
+          </div>
+        {% else %}
+          <div class="row">
+            <div class="masonry" data-columns>
+              {% for media in page.media %}
+                <div class="element">
+                  <span class="image fit">
+                    <a class="popup-{{ page.modal_type }}" href="{{ media.media_url }}"><img src="{{ media.thumbnail_image }}"></a>
+                  </span>
+                </div>
+              {% endfor %}
             </div>
-          {% endfor %}
-        </div>
+          </div>
+        {% endif %}
       {% endif %}
     </div>
   </section>
