@@ -3817,3 +3817,22 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.masonry::before {
+	content: '3 .element.size-1of3';
+}
+
+.masonry .element {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.image.fit {
+	margin-bottom: 0;
+}
+
+.size-1of3 {
+	box-sizing: border-box;
+	width: 33.333333%;
+	padding-right: 1%;
+}
