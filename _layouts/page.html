@@ -10,6 +10,16 @@ layout: default
     <div class="inner">
       {{ content }}
 
+      {% if page.reel %}
+        <div class="row uniform 50%">
+          <div class="12u">
+            <span class="image fit">
+              <a class="popup-reel" href="{{ page.reel.url }}"><img src="{{ page.reel.thumbnail_image }}"></a>
+            </span>
+          </div>
+        </div>
+      {% endif %}
+
       {% if page.media %}
         <div class="row uniform 50%">
           {% for media in page.media %}
