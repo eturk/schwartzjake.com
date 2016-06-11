@@ -20,4 +20,4 @@ defaults:
   values:
     layout: landing
 permalink: pretty
-banner_image: https://www.youtube.com/watch?v=zeaCfnXD994
+banner_image: "/uploads/banner.jpg"
