@@ -7,8 +7,8 @@ resume_url: "/uploads/Jake_Schwartz_Resume_FilmProjects_Draft2_2.pdf"
 hide_header: true
 ---
 
-Director.
+[Director.](http://schwartzjake.com/films/)
 
-Photographer.
+[Photographer.](http://schwartzjake.com/photography/)
 
 Graphic Designer.
