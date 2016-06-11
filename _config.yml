@@ -14,4 +14,10 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: home.markdown
+    type: pages
+  values:
+    layout: landing
 permalink: pretty
+banner_image: "/uploads/banner.jpg"

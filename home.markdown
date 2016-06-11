@@ -2,13 +2,12 @@
 title: Home
 permalink: "/"
 position: 0
-layout: home
-reel_url: https://www.youtube.com/watch?v=FgXe4H6BvOY
+reel_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
+resume_url: "/uploads/Jake_Schwartz_Resume_FilmProjects_Draft2_2.pdf"
+hide_header: true
 ---
 
-Creative.
-
-Filmmaker.
+Director.
 
 Photographer.
 
