@@ -9,7 +9,7 @@ media:
   thumbnail_image: "/assets/img/example.jpg"
 - media_url: https://www.youtube.com/watch?v=tr06PCGfZD8
   thumbnail_image: "/assets/img/example.jpg"
-- media_url: https://www.youtube.com/watch?v=tr06PCGfZD8
+- media_url: https://vimeo.com/167409747
   thumbnail_image: "/assets/img/example.jpg"
 - media_url: https://www.youtube.com/watch?v=tr06PCGfZD8
   thumbnail_image: "/assets/img/example.jpg"
