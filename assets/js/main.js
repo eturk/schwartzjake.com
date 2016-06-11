@@ -101,6 +101,13 @@
 				type: 'iframe'
 			});
 
+			$('.popup-image').magnificPopup({
+				type: 'image',
+				image: {
+					verticalFit: true
+				}
+			});
+
 	});
 
 })(jQuery);

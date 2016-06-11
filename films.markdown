@@ -1,6 +1,7 @@
 ---
 title: Films
 position: 1
+modal_type: reel
 reel:
   url: https://www.youtube.com/watch?v=9dnswlZXprQ
   thumbnail_image: "/assets/img/example.jpg"
