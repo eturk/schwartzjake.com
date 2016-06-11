@@ -7,3 +7,4 @@ media:
 - media_url: http://google.com
   thumbnail_image: "/assets/img/example.jpg"
 ---
+

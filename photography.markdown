@@ -12,3 +12,4 @@ media:
 - media_url: "/uploads/banner.jpg"
   thumbnail_image: "/uploads/banner.jpg"
 ---
+
