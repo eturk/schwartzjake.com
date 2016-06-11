@@ -20,4 +20,4 @@ defaults:
   values:
     layout: landing
 permalink: pretty
-banner_image: /uploads/banner.jpg
+banner_image: "/uploads/banner.jpg"
