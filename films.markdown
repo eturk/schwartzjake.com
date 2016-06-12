@@ -6,8 +6,8 @@ reel:
   url: https://www.youtube.com/watch?v=9dnswlZXprQ
   thumbnail_image: "/assets/img/example.jpg"
 media:
-- media_url: https://www.youtube.com/watch?v=9dnswlZXprQ
-  thumbnail_image: "/assets/img/example.jpg"
+- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
+  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=tr06PCGfZD8
   thumbnail_image: "/assets/img/example.jpg"
 - media_url: https://vimeo.com/167409747
