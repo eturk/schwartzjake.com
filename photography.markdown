@@ -25,8 +25,7 @@ media:
   thumbnail_image: "/uploads/R6_004%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R5_0035%20copy_Thumbnail.jpg"
   thumbnail_image: "/uploads/R5_0035%20copy_Thumbnail.jpg"
-- media_url: "/uploads/R5_0025%20copy_Thumbnail.jpg"
-  thumbnail_image: "/uploads/R5_0025%20copy_Thumbnail.jpg"
+- 
 - media_url: "/uploads/Clinton_IMG_9404_Thumnail.jpg"
   thumbnail_image: "/uploads/Clinton_IMG_9404_Thumnail.jpg"
 - 
