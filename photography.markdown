@@ -45,13 +45,13 @@ media:
   thumbnail_image: "/uploads/Clinton_IMG_9405.jpg"
 - media_url: "/uploads/R1_0021.jpg"
   thumbnail_image: "/uploads/R1_0021.jpg"
+- media_url: "/uploads/Basel_IMG_9462.jpg"
+  thumbnail_image: "/uploads/Basel_IMG_9462.jpg"
 - media_url: "/uploads/Colonge_IMG_0148.jpg"
   thumbnail_image: "/uploads/Colonge_IMG_0148.jpg"
 - media_url: "/uploads/Cologne_IMG_0003.jpg"
   thumbnail_image: "/uploads/Cologne_IMG_0003.jpg"
 - media_url: "/uploads/Barcelona_IMG_0754.jpg"
   thumbnail_image: "/uploads/Barcelona_IMG_0754.jpg"
-- media_url: "/uploads/Basel_IMG_9462.jpg"
-  thumbnail_image: "/uploads/Basel_IMG_9462.jpg"
 ---
 
