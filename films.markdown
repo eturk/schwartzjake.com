@@ -16,4 +16,3 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 ---
 
-Foobar!
