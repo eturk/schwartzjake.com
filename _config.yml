@@ -20,4 +20,4 @@ defaults:
   values:
     layout: landing
 permalink: pretty
-banner_image: "/uploads/BG_Artsy_Headshot.jpg"
+banner_image: "/uploads/banner.jpg"
