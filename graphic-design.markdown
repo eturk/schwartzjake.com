@@ -8,7 +8,3 @@ media:
   thumbnail_image: "/assets/img/example.jpg"
 ---
 
-Foobar!
-
-
-Hey
