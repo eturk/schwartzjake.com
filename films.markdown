@@ -3,8 +3,8 @@ title: Films
 position: 1
 modal_type: reel
 reel:
-  url: 
-  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
+  url: "/uploads/Reel_ComingSoon.jpg"
+  thumbnail_image: "/uploads/Reel_ComingSoon.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
   thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
