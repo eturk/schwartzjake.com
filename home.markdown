@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 position: 0
-reel_url: "/uploads/Reel_ComingSoon.jpg"
+reel_url: http://schwartzjake.com/films/
 resume_url: "/uploads/Jake_Schwartz_Resume_FilmProjects_Draft2_2.pdf"
 hide_header: true
 ---
