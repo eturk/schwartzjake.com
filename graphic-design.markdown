@@ -1,6 +1,7 @@
 ---
 title: Graphic Design
 date: 2016-06-06 22:34:00 -04:00
+published: false
 position: 3
 modal_type: image
 media:
