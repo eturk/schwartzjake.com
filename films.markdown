@@ -3,7 +3,7 @@ title: Films
 position: 1
 modal_type: reel
 reel:
-  url: "/uploads/Reel_ComingSoon.jpg"
+  url: "/uploads/Reel_ComingSoon_Small-e1c4fb.jpg"
   thumbnail_image: "/uploads/Reel_ComingSoon.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
