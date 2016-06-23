@@ -10,5 +10,3 @@ hide_header: true
 [Director.](http://schwartzjake.com/films/)
 
 [Photographer.](http://schwartzjake.com/photography/)
-
-[Graphic Designer.](http://schwartzjake.com/graphic-design/)
