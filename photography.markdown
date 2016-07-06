@@ -25,10 +25,8 @@ media:
   thumbnail_image: "/uploads/R6_004%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R5_0035%20copy.jpg"
   thumbnail_image: "/uploads/R5_0035%20copy_Thumbnail.jpg"
-- 
 - media_url: "/uploads/Clinton_IMG_9404.jpg"
   thumbnail_image: "/uploads/Clinton_IMG_9404_Thumbnail.jpg"
-- 
 - media_url: "/uploads/Carnival_IMG_9744.jpg"
   thumbnail_image: "/uploads/Carnival_IMG_9744_Thumbnail.jpg"
 - media_url: "/uploads/R4_0007%20copy.jpg"
@@ -45,7 +43,6 @@ media:
   thumbnail_image: "/uploads/R1_0021_Thumbnail.jpg"
 - media_url: "/uploads/Basel_IMG_9462.jpg"
   thumbnail_image: "/uploads/Basel_IMG_9462_Thumbnail.jpg"
-- 
 - media_url: "/uploads/Cologne_IMG_0003.jpg"
   thumbnail_image: "/uploads/Cologne_IMG_0003_Thumbnail.jpg"
 - media_url: "/uploads/Barcelona_IMG_0754.jpg"
