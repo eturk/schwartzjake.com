@@ -49,5 +49,7 @@ media:
   thumbnail_image: "/uploads/Barcelona_IMG_0754_Thumbnail.jpg"
 - media_url: "/uploads/R9_027%20copy.jpg"
   thumbnail_image: "/uploads/R9_027%20copy_Thumbnail.jpg"
+- media_url: "/uploads/R9_021%20copy.jpg"
+  thumbnail_image: "/uploads/R9_021%20copy_Thumbnail.jpg"
 ---
 
