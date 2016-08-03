@@ -31,8 +31,6 @@ media:
   thumbnail_image: "/uploads/Carnival_IMG_9744_Thumbnail.jpg"
 - media_url: "/uploads/R4_0007%20copy.jpg"
   thumbnail_image: "/uploads/R4_0007%20copy_Thumbnail.jpg"
-- media_url: "/uploads/R9_027%20copy.jpg"
-  thumbnail_image: "/uploads/R9_027%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R2_0007%20copy.jpg"
   thumbnail_image: "/uploads/R2_0007_Thumbnail.jpg"
 - media_url: "/uploads/Madrid_IMG_0496.jpg"
@@ -49,5 +47,7 @@ media:
   thumbnail_image: "/uploads/Cologne_IMG_0003_Thumbnail.jpg"
 - media_url: "/uploads/Barcelona_IMG_0754.jpg"
   thumbnail_image: "/uploads/Barcelona_IMG_0754_Thumbnail.jpg"
+- media_url: "/uploads/R9_027%20copy.jpg"
+  thumbnail_image: "/uploads/R9_027%20copy_Thumbnail.jpg"
 ---
 
