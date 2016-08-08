@@ -20,7 +20,7 @@ media:
   thumbnail_image: 
 - media_url: 
   thumbnail_image: 
-- media_url: http://schwartzjake.com/films/
+- media_url: "/uploads/Other%20Projects.jpg"
   thumbnail_image: "/uploads/Other%20Projects.jpg"
 ---
 
