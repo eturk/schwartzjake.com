@@ -14,10 +14,12 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
-- media_url: "/uploads/White%20Line_Vertical.jpg"
-  thumbnail_image: "/uploads/White%20Line_Vertical.jpg"
-- media_url: "/uploads/White%20Line_Vertical.jpg"
-  thumbnail_image: "/uploads/White%20Line_Vertical.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
   thumbnail_image: "/uploads/Other%20Projects.jpg"
 ---
