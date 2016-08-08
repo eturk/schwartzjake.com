@@ -26,7 +26,7 @@ media:
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: https://vimeo.com/171315429
   thumbnail_image: "/uploads/Tap_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=_ytOaa6Ly_I&list=PLUFrANrSf4xvsr46Yy2svaaCH0p6bo-u7&index=19
+- media_url: https://www.youtube.com/watch?v=_ytOaa6Ly_I
   thumbnail_image: "/uploads/UpToDate_Thumbnail.jpg"
 ---
 
