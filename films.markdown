@@ -17,7 +17,7 @@ media:
 - media_url: http://schwartzjake.com/films/
   thumbnail_image: "/uploads/White%20Line.jpg"
 - media_url: http://schwartzjake.com/films/
-  thumbnail_image: "/uploads/White%20Line.jpg"
+  thumbnail_image: "/uploads/White%20Line_Vertical.jpg"
 - media_url: http://schwartzjake.com/films/
   thumbnail_image: "/uploads/White%20Line.jpg"
 - media_url: http://schwartzjake.com/films/
