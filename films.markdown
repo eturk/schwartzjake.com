@@ -14,8 +14,14 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
-- media_url: 
-  thumbnail_image: "/uploads/White%20Image.jpg"
+- media_url: http://schwartzjake.com/films/
+  thumbnail_image: "/uploads/White%20Line.jpg"
+- media_url: http://schwartzjake.com/films/
+  thumbnail_image: "/uploads/White%20Line.jpg"
+- media_url: http://schwartzjake.com/films/
+  thumbnail_image: "/uploads/White%20Line.jpg"
+- media_url: http://schwartzjake.com/films/
+  thumbnail_image: "/uploads/Other%20Projects.jpg"
 ---
 
 
