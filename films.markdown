@@ -22,6 +22,10 @@ media:
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
   thumbnail_image: "/uploads/Other%20Projects.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: https://vimeo.com/171315429
+  thumbnail_image: "/uploads/Tap_Thumbnail.jpg"
 ---
 
 
