@@ -12,8 +12,10 @@ media:
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
-- media_url: 
+- media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
+- media_url: 
+  thumbnail_image: https://s.graphiq.com/sites/default/files/2307/media/images/White_430113_i0.png
 ---
 
 
