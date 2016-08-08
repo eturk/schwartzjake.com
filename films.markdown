@@ -15,7 +15,7 @@ media:
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
 - media_url: 
-  thumbnail_image: https://s.graphiq.com/sites/default/files/2307/media/images/White_430113_i0.png
+  thumbnail_image: "/uploads/White%20Image.jpg"
 ---
 
 
