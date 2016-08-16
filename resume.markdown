@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Resume Page
 date: 2016-08-16 19:12:00 -04:00
 position: 1
 ---
