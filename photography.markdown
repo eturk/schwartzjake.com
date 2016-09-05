@@ -1,5 +1,6 @@
 ---
 title: Photography
+published: false
 position: 3
 modal_type: image
 media:
