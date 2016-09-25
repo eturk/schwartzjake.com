@@ -53,4 +53,4 @@ media:
   thumbnail_image: "/uploads/R2_0007%20copy_Thumbnail.jpg"
 ---
 
-If the page does not load properly, please refresh.
+If the page does not load properly, please [refresh](http://schwartzjake.com/photography/).
