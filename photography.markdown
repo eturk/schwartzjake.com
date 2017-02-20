@@ -7,6 +7,8 @@ media:
   thumbnail_image: "/uploads/Basel_IMG_9551%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R5_0025%20copy.jpg"
   thumbnail_image: "/uploads/R5_0025%20copy_Thumbnail.jpg"
+- media_url: "/uploads/IMG_2486%20copy.jpg"
+  thumbnail_image: "/uploads/IMG_2486%20copy_Thumbnail.jpg"
 - media_url: "/uploads/Bruges_IMG_9031%20copy.jpg"
   thumbnail_image: "/uploads/Bruges_IMG_9031%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R1_0006%20copy.jpg"
@@ -51,6 +53,16 @@ media:
   thumbnail_image: "/uploads/R9_027%20copy_Thumbnail.jpg"
 - media_url: "/uploads/R2_0007%20copy.jpg"
   thumbnail_image: "/uploads/R2_0007%20copy_Thumbnail.jpg"
+- media_url: "/uploads/367DAC58-03FC-4FDB-9593-EEA5B9B5023C%20copy.jpg"
+  thumbnail_image: "/uploads/367DAC58-03FC-4FDB-9593-EEA5B9B5023C%20copy_Thumbnail.jpg"
+- media_url: "/uploads/IMG_2495%20copy.jpg"
+  thumbnail_image: "/uploads/IMG_2495%20copy_Thumbnail.jpg"
+- media_url: "/uploads/IMG_1865%20copy.jpg"
+  thumbnail_image: "/uploads/IMG_1865%20copy_Thumbnail.jpg"
+- media_url: "/uploads/IMG_2290%20copy.jpg"
+  thumbnail_image: "/uploads/IMG_2290%20copy_Thumbnail.jpg"
+- media_url: "/uploads/IMG_2241%20copy.jpg"
+  thumbnail_image: "/uploads/IMG_2241%20copy_Thumbnail.jpg"
 ---
 
 If the page does not load properly, please [refresh](http://schwartzjake.com/photography/).
