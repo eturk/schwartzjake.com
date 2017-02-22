@@ -21,3 +21,4 @@ defaults:
     layout: landing
 permalink: pretty
 banner_image: "/uploads/banner.jpg"
+favicon_image: "/uploads/favicon.ico"
