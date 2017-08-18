@@ -18,6 +18,8 @@ media:
   thumbnail_image: "/uploads/Other%20Projects.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: https://www.youtube.com/watch?v=b2390GAm4d0
+  thumbnail_image: "/uploads/RachelPlatten_Thumbnail.jpg"
 - media_url: https://vimeo.com/223823259
   thumbnail_image: "/uploads/Doomed_Thumbnail.jpg"
 - media_url: https://vimeo.com/171315429
