@@ -7,7 +7,7 @@ reel:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 media:
 - media_url: https://vimeo.com/171871938
-  thumbnail_image: "/uploads/EVVYAwards_Thumbnail.jpg"
+  thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
   thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
