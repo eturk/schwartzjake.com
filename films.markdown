@@ -26,7 +26,7 @@ media:
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=JE5BtfDZ1yM
   thumbnail_image: "/uploads/Chippewa_Thumbnail.jpg"
-- media_url: https://www.facebook.com/CharlesSchwab/videos/10154826124940588/
+- media_url: https://www.youtube.com/watch?v=_OTCo7X6pkI&list=PLctx2TLOKMwbgx27FQZ4R-lrcEO801jlv
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Dallas.jpg"
 - media_url: https://www.youtube.com/watch?v=sZpJny060RA
   thumbnail_image: "/uploads/Twenty_Thumbnail.jpg"
