@@ -24,6 +24,8 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=oQx3h5D9pwg
+  thumbnail_image: "/uploads/Voidz_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=JE5BtfDZ1yM
   thumbnail_image: "/uploads/Chippewa_Thumbnail.jpg"
 - media_url: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCharlesSchwab%2Fvideos%2F10154826124940588%2F&show_text=0&width=560
