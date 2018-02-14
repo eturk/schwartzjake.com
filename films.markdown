@@ -34,6 +34,8 @@ media:
   thumbnail_image: "/uploads/Migos_Thumbnail.jpg"
 - media_url: https://scontent-lax3-2.cdninstagram.com/vp/7d5f547c1f0376243b8555f64a6fe65f/5A8639EC/t50.2886-16/27298860_144704452862978_2310561000723578880_n.mp4
   thumbnail_image: "/uploads/Halsey_Sorry_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=cW5ueE2vUm0
+  thumbnail_image: "/uploads/Paramore_Thumbail%20copy.jpg"
 - media_url: https://www.youtube.com/watch?v=Oapebl0bADA
   thumbnail_image: "/uploads/Khalid_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=sZpJny060RA
