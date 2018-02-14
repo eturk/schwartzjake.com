@@ -40,6 +40,8 @@ media:
   thumbnail_image: "/uploads/Tap_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=_ytOaa6Ly_I
   thumbnail_image: "/uploads/UpToDate_Thumbnail.jpg"
+- media_url: https://www.instagram.com/p/BetgVJghp-q/?hl=en&taken-by=singjlee
+  thumbnail_image: "/uploads/Halsey_Sorry_Thumbail.jpg"
 ---
 
 
