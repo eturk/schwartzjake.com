@@ -24,10 +24,14 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary.jpg"
+- media_url: https://www.youtube.com/watch?v=5UCs0IWHVMc
+  thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=oQx3h5D9pwg
   thumbnail_image: "/uploads/Voidz_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=ejLAOKjTtwY
+  thumbnail_image: "/uploads/Anais_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=JE5BtfDZ1yM
   thumbnail_image: "/uploads/Chippewa_Thumbnail.jpg"
 - media_url: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCharlesSchwab%2Fvideos%2F10154826124940588%2F&show_text=0&width=560
@@ -38,8 +42,12 @@ media:
   thumbnail_image: "/uploads/Halsey_Sorry_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=cW5ueE2vUm0
   thumbnail_image: "/uploads/Paramore_Thumbail%20copy.jpg"
+- media_url: https://www.youtube.com/watch?v=IN2YrKRzRjw
+  thumbnail_image: "/uploads/Quarrel_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=Oapebl0bADA
   thumbnail_image: "/uploads/Khalid_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=OYt-eYCDmps
+  thumbnail_image: "/uploads/Cherubim_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=sZpJny060RA
   thumbnail_image: "/uploads/Twenty_Thumbnail.jpg"
 - media_url: https://vimeo.com/171315429
