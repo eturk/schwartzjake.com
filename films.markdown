@@ -26,7 +26,7 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary.jpg"
-- media_url: https://www.youtube.com/watch?v=5UCs0IWHVMc
+- media_url: https://www.youtube.com/watch?v=qTrqmNieVKI
   thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
