@@ -3,11 +3,11 @@ title: Films
 position: 2
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=W1tyrCF7CT0
-  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
-media:
-- media_url: https://vimeo.com/278106021
+  url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
+media:
+- media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
+  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
@@ -60,8 +60,6 @@ media:
   thumbnail_image: "/uploads/Twenty_Thumbnail.jpg"
 - media_url: https://vimeo.com/171315429
   thumbnail_image: "/uploads/Tap_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=_ytOaa6Ly_I
-  thumbnail_image: "/uploads/UpToDate_Thumbnail.jpg"
 ---
 
 
