@@ -1,6 +1,6 @@
 ---
 title: Editor
-position: 2
+position: 3
 modal_type: reel
 reel:
   url: https://www.youtube.com/watch?v=dPeuguUHPlA
