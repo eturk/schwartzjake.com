@@ -62,4 +62,3 @@ media:
   thumbnail_image: "/uploads/Tap_Thumbnail.jpg"
 ---
 
-
