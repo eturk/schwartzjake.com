@@ -1,5 +1,5 @@
 ---
-title: Films
+title: Editor
 position: 2
 modal_type: reel
 reel:
