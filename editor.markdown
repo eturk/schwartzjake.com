@@ -58,6 +58,5 @@ media:
   thumbnail_image: "/uploads/Cherubim_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=sZpJny060RA
   thumbnail_image: "/uploads/Twenty_Thumbnail.jpg"
-layout: page
 ---
 
