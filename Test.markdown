@@ -5,8 +5,10 @@ reel:
   url: 
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 media:
-- - media_url: 
-    thumbail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
+- url: 
+  thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
+- url: 
+  thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 layout: page
 ---
 
