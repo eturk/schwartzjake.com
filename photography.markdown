@@ -1,6 +1,7 @@
 ---
 title: Photography
-position: 3
+published: false
+position: 4
 modal_type: image
 media:
 - media_url: "/uploads/Basel_IMG_9551%20copy.jpg"

@@ -1,13 +1,13 @@
 ---
 title: Editor
-position: 2
+position: 3
 modal_type: reel
 reel:
-  url: https://vimeo.com/278106021
-  thumbnail_image: "/uploads/BU_Thumbail.jpg"
-media:
-- media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
+  url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail.jpg"
+media:
+- media_url: https://vimeo.com/278106021
+  thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
