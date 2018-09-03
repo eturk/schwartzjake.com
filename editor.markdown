@@ -4,7 +4,7 @@ position: 3
 modal_type: reel
 reel:
   url: https://www.youtube.com/watch?v=dPeuguUHPlA
-  thumbnail_image: "/uploads/Fallin_Thumbail.jpg"
+  thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 media:
 - media_url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
