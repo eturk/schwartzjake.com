@@ -6,22 +6,22 @@ reel:
   url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 media:
-- media_url: https://vimeo.com/278106021
-  thumbnail_image: "/uploads/BU_Thumbail.jpg"
-- media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
-  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
-- media_url: https://vimeo.com/171871938
-  thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
-- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
-  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
-  thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
+- media_url: https://vimeo.com/278106021
+  thumbnail_image: "/uploads/BU_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
+  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
+  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
+- media_url: https://vimeo.com/171871938
+  thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
+- media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
+  thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
