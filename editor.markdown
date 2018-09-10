@@ -17,13 +17,11 @@ media:
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
-  thumbnail_image: "/uploads/RachelPlatten_Thumbnail.jpg"
+  thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
-  thumbnail_image: "/uploads/Doomed_Thumbnail.jpg"
+  thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/250911037
-  thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
