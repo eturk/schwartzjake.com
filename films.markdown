@@ -16,4 +16,3 @@ media:
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
 ---
 
-
