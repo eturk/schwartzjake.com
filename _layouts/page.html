@@ -21,7 +21,7 @@ layout: default
       {% endif %}
 
       {% if page.media %}
-        {% if page.title == "Films" %}
+        {% if page.has_masonry %}
           <div class="row uniform 50%">
             {% for media in page.media %}
               <div class="4u">

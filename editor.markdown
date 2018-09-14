@@ -2,6 +2,7 @@
 title: Editor
 position: 3
 modal_type: reel
+has_masonry: true
 reel:
   url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
