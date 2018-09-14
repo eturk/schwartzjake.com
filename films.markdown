@@ -2,6 +2,7 @@
 title: Films
 position: 2
 modal_type: reel
+has_masonry: true
 reel:
   url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
