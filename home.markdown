@@ -9,4 +9,4 @@ hide_header: true
 
 [Director.](http://schwartzjake.com/films/)
 
-[Editor.](http://schwartzjake.com/editor/)
+[Editor.](http://schwartzjake.com/edits/)
