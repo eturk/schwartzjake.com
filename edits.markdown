@@ -35,6 +35,8 @@ media:
   thumbnail_image: "/uploads/JanelleDoc_Thumbnail_Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=qTrqmNieVKI
   thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
+- media_url: https://www.youtube.com/watch?v=X2speTRgxvE
+  thumbnail_image: "/uploads/ParkMGM_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=oQx3h5D9pwg
