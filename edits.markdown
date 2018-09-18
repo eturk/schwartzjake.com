@@ -15,6 +15,8 @@ media:
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
 - media_url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
+- media_url: https://vimeo.com/257176922
+  thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
   thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
@@ -23,8 +25,6 @@ media:
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
@@ -49,8 +49,6 @@ media:
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Dallas.jpg"
 - media_url: https://www.youtube.com/watch?v=HI-mXMr8glQ
   thumbnail_image: "/uploads/Migos_Thumbnail.jpg"
-- media_url: https://vimeo.com/257176922
-  thumbnail_image: "/uploads/Halsey_Sorry_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=cW5ueE2vUm0
   thumbnail_image: "/uploads/Paramore_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=IN2YrKRzRjw
