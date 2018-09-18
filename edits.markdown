@@ -52,7 +52,7 @@ media:
 - media_url: https://vimeo.com/257176922
   thumbnail_image: "/uploads/Halsey_Sorry_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=cW5ueE2vUm0
-  thumbnail_image: "/uploads/Paramore_Thumbail%20copy.jpg"
+  thumbnail_image: "/uploads/Paramore_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=IN2YrKRzRjw
   thumbnail_image: "/uploads/Quarrel_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=Oapebl0bADA
