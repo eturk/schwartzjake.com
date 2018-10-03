@@ -43,6 +43,8 @@ media:
   thumbnail_image: "/uploads/Voidz_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=ejLAOKjTtwY
   thumbnail_image: "/uploads/Anais_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=Tg0IeSHONjI
+  thumbnail_image: "/uploads/MoveUs_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=JE5BtfDZ1yM
   thumbnail_image: "/uploads/Chippewa_Thumbnail.jpg"
 - media_url: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCharlesSchwab%2Fvideos%2F10154826124940588%2F&show_text=0&width=560
