@@ -5,7 +5,7 @@ has_masonry: true
 modal_type: reel
 reel:
   url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
-  thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail"
+  thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
@@ -29,8 +29,6 @@ media:
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
