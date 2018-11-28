@@ -4,8 +4,8 @@ position: 3
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=dPeuguUHPlA
-  thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
+  url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
+  thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail"
 media:
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
@@ -15,6 +15,8 @@ media:
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
 - media_url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
+  thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
   thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
