@@ -43,7 +43,7 @@ media:
   thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
 - media_url: https://www.youtube.com/watch?v=X2speTRgxvE
   thumbnail_image: "/uploads/ParkMGM_Thumbail.jpg"
-- media_url: 
+- media_url: https://www.youtube.com/watch?v=J1IinQZG3Sc
   thumbnail_image: "/uploads/Chromeo_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
