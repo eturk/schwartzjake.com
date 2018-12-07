@@ -43,7 +43,7 @@ media:
   thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
 - media_url: https://www.youtube.com/watch?v=X2speTRgxvE
   thumbnail_image: "/uploads/ParkMGM_Thumbail.jpg"
-- media_url: 
+- media_url: https://www.youtube.com/watch?v=J1IinQZG3Sc
   thumbnail_image: "/uploads/Chromeo_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=o1v7mGD14lo
   thumbnail_image: "/uploads/HundredWaters_Thumbnail.jpg"
@@ -67,6 +67,8 @@ media:
   thumbnail_image: "/uploads/Khalid_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=OYt-eYCDmps
   thumbnail_image: "/uploads/Cherubim_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=CE1jGvY57LU
+  thumbnail_image: "/uploads/StephenPuth_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=sZpJny060RA
   thumbnail_image: "/uploads/Twenty_Thumbnail.jpg"
 layout: page
