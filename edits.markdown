@@ -19,6 +19,8 @@ media:
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
   thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
+  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
@@ -29,8 +31,6 @@ media:
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: https://www.youtube.com/watch?v=dCl4qebEfy4
   thumbnail_image: "/uploads/Writers%20Strike_Thumbnail.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
