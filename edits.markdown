@@ -13,14 +13,14 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
-- media_url: https://vimeo.com/278106021
-  thumbnail_image: "/uploads/BU_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
+  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
   thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
-- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
-  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
+- media_url: https://vimeo.com/278106021
+  thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
