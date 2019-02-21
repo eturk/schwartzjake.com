@@ -39,6 +39,8 @@ media:
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: https://www.youtube.com/watch?v=QIz5MHKV1nk
   thumbnail_image: "/uploads/JanelleDoc_Thumbnail_Editor.jpg"
+- media_url: https://www.youtube.com/watch?v=YrbgUtCfnC0
+  thumbnail_image: "/uploads/365_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=qTrqmNieVKI
   thumbnail_image: "/uploads/ATCQ_Thumbnail.JPG"
 - media_url: https://www.youtube.com/watch?v=X2speTRgxvE
