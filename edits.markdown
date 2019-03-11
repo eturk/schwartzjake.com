@@ -7,16 +7,16 @@ reel:
   url: https://www.youtube.com/watch?v=imOnV44j3qE
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 media:
+- media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
+  thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
+  thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
-- media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
-  thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
-  thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
