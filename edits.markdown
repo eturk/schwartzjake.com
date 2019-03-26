@@ -4,9 +4,11 @@ position: 3
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=imOnV44j3qE
-  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
+  url: https://www.youtube.com/watch?v=CfCxItPlidc
+  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg/uploads/M_GrandPetit_Thumbnail.jpg"
 media:
+- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
+  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
@@ -31,6 +33,10 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
