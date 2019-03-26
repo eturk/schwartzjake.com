@@ -5,7 +5,7 @@ has_masonry: true
 modal_type: reel
 reel:
   url: https://www.youtube.com/watch?v=CfCxItPlidc
-  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg/uploads/M_GrandPetit_Thumbnail.jpg"
+  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=imOnV44j3qE
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
