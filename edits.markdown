@@ -4,8 +4,8 @@ position: 3
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=CfCxItPlidc
-  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
+  url: https://www.youtube.com/watch?v=XeJyuKHuF2w
+  thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=imOnV44j3qE
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
@@ -19,6 +19,8 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
+- media_url: https://www.youtube.com/watch?v=CfCxItPlidc
+  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
@@ -33,8 +35,6 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
