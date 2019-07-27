@@ -17,6 +17,8 @@ media:
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
   thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=vVTKq0nH3RY
+  thumbnail_image: "/uploads/TwixProm_Thumbnail.jpg"
 - media_url: https://vimeo.com/250911037
   thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
@@ -35,8 +37,6 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
