@@ -15,8 +15,6 @@ media:
   thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
   thumbnail_image: "/uploads/Batwoman_Cosplay_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=b2390GAm4d0
-  thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
   thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=vVTKq0nH3RY
@@ -27,6 +25,8 @@ media:
   thumbnail_image: "/uploads/Jayden-Armani_DrawFromMemory.jpg"
 - media_url: https://www.youtube.com/watch?v=bi6KvOzM2nM
   thumbnail_image: "/uploads/Borderlands_Cosplay_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=b2390GAm4d0
+  thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
