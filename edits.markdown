@@ -11,6 +11,8 @@ media:
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=qiJy-_2cZ8I
+  thumbnail_image: "/uploads/Logo_VarietyHour_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=CfCxItPlidc
   thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
@@ -37,8 +39,6 @@ media:
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
-- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
-  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
