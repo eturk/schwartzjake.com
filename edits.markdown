@@ -21,8 +21,6 @@ media:
   thumbnail_image: "/uploads/TaylorUpsahl_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=vVTKq0nH3RY
   thumbnail_image: "/uploads/TwixProm_Thumbnail.jpg"
-- media_url: https://vimeo.com/250911037
-  thumbnail_image: "/uploads/Charles%20Schwab%20-%20Mary%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=ZbgJq4dbZ24
   thumbnail_image: "/uploads/Jayden-Armani_DrawFromMemory.jpg"
 - media_url: https://www.youtube.com/watch?v=bi6KvOzM2nM
@@ -39,6 +37,8 @@ media:
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
+  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
