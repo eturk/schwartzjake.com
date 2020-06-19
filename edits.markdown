@@ -15,6 +15,8 @@ media:
   thumbnail_image: "/uploads/Logo_VarietyHour_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=CfCxItPlidc
   thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
+- media_url: https://vimeo.com/430879490
+  thumbnail_image: "/uploads/FB_Rooms_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
   thumbnail_image: "/uploads/Batwoman_Cosplay_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
@@ -43,6 +45,10 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
+- media_url: "/uploads/WhiteImage.jpg"
+  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
