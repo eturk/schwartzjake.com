@@ -13,8 +13,8 @@ media:
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=qiJy-_2cZ8I
   thumbnail_image: "/uploads/Logo_VarietyHour_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=CfCxItPlidc
-  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
+-media_url: https://www.youtube.com/watch?v=sjr11lGEBg4
+  thumbnail_image: "/uploads/IDLES_Thumbnail.jpg"
 - media_url: https://vimeo.com/430879490
   thumbnail_image: "/uploads/FB_Rooms_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
@@ -35,6 +35,8 @@ media:
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
   thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
+- media_url: https://www.youtube.com/watch?v=CfCxItPlidc
+  thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://vimeo.com/278106021
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
@@ -45,8 +47,6 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
