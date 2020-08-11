@@ -91,3 +91,4 @@ media:
   thumbnail_image: "/uploads/StephenPuth_Thumbnail.jpg"
 layout: page
 ---
+
