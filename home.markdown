@@ -7,6 +7,6 @@ resume_url: "/uploads/Jake_Schwartz_Resume.pdf"
 hide_header: true
 ---
 
-[Director.](http://schwartzjake.com/films/)
+[Director.](https://schwartzjake.com/films/)
 
-[Editor.](http://schwartzjake.com/edits/)
+[Editor.](https://schwartzjake.com/edits/)
