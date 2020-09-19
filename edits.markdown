@@ -27,6 +27,8 @@ media:
   thumbnail_image: "/uploads/Jayden-Armani_DrawFromMemory.jpg"
 - media_url: https://www.youtube.com/watch?v=bi6KvOzM2nM
   thumbnail_image: "/uploads/Borderlands_Cosplay_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=ccMIA3t7iJg
+  thumbnail_image: "/uploads/Thumbnail_MAA.jpg"
 - media_url: https://www.youtube.com/watch?v=b2390GAm4d0
   thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
@@ -47,8 +49,6 @@ media:
   thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
-- media_url: "/uploads/WhiteImage.jpg"
-  thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
