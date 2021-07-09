@@ -17,6 +17,8 @@ media:
   thumbnail_image: "/uploads/IDLES_Thumbnail.jpg"
 - media_url: https://vimeo.com/430879490
   thumbnail_image: "/uploads/FB_Rooms_Thumbnail.jpg"
+- media_url: https://www.tiktok.com/@converse/video/6964779610307333381?lang=en&is_copy_url=1&is_from_webapp=v1
+  thumbnail_image: "/uploads/ConversePride_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
   thumbnail_image: "/uploads/Batwoman_Cosplay_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=x1VfNUjzQ_0
@@ -45,8 +47,6 @@ media:
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
   thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=W1tyrCF7CT0
-  thumbnail_image: "/uploads/ZipIt_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
