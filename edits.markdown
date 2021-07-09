@@ -17,7 +17,7 @@ media:
   thumbnail_image: "/uploads/IDLES_Thumbnail.jpg"
 - media_url: https://vimeo.com/430879490
   thumbnail_image: "/uploads/FB_Rooms_Thumbnail.jpg"
-- media_url: https://vimeo.com/573134841
+- media_url: https://vimeo.com/573141856
   thumbnail_image: "/uploads/ConversePride_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=6ZCRmC_2ls0
   thumbnail_image: "/uploads/Batwoman_Cosplay_Thumbnail.jpg"
